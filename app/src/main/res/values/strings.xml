@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="text_view">Login</string>
+    <string name="edit_message">Username</string>
+    <string name="edit_password">Password</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
